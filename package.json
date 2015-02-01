@@ -6,8 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Niels Overwijn",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/HalleyInteractive/ip-notifier.git"
+  }
+  "license": "MIT",
   "dependencies": {
     "ip": "^0.3.2",
     "pushbullet": "^1.4.3"
