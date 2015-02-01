@@ -1,0 +1,15 @@
+{
+  "name": "ip-notifier",
+  "version": "1.0.0",
+  "description": "Sends a Push Bullet message with the device ip address on boot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ip": "^0.3.2",
+    "pushbullet": "^1.4.3"
+  }
+}
