@@ -1,6 +1,5 @@
-# ip-notifier
+# IP-Notifier
 Sends a Push Bullet note with the device ip address on boot.
-
 
 ### Install
 
